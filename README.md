@@ -6,6 +6,5 @@ My textbook, *Data Strucures and Algorithms in Java: A Project-Based Approach*, 
 
 Browse these repositories for example class materials, syllabi, and assignments. You can also [visit my personal website](https://dansmyers.github.io).
 
-[CV](https://dansmyers.github.io/Dan_Myers_CV.pdf).
-
-[I like to play the guitar](https://www.youtube.com/watch?v=tb-pU09vAN8&list=PLdZehgbgYw-TChlzi78HAAT-4Islc5S6b&index=2).
+- [My CV](https://dansmyers.github.io/Dan_Myers_CV.pdf)
+- [I like to play the guitar](https://www.youtube.com/watch?v=tb-pU09vAN8&list=PLdZehgbgYw-TChlzi78HAAT-4Islc5S6b&index=2).
