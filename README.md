@@ -1,6 +1,6 @@
 ## Dan S. Myers 👋
 
-I'm an associate professor of computer science at [Rollins College](https://www.rollins.edu) in Winter Park, FL. I teach classes across the computer science curriculum, including intro to CS, simulation, and AI.
+I'm a professor of computer science at [Rollins College](https://www.rollins.edu) in Winter Park, FL. I teach classes across the computer science curriculum, including intro to CS, simulation, and AI.
 
 My textbook, *Data Strucures and Algorithms in Java: A Project-Based Approach*, is available now from Cambridge University Press. The book is an accessible, engaging introduction to data structures and algorithms, where each theoretical topic is combined with at least one significant project showing how to use it in a real program. [Learn more here](https://www.cambridge.org/highereducation/books/data-structures-and-algorithms-in-java/CE4F67C1DAEF99C779E793C455DD8A24#overview).
 
